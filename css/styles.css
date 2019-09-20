@@ -5,21 +5,23 @@ body{
 }
 
 h1{
-    font-size: 75px;
-    font-family: 'Rye', cursive;
+    font-size: 80px;
+    font-family: 'New Rocker', cursive;
     color: white;
 }
 p{
     color: white;
     text-align: center;
-    font-family:'Rye', cursive ;
+    font-family:'Rye', cursive;
     font-size: 25px;
 }
 .first{
     color:white;
     font-size: 22px;
+    font-family:'Rye', cursive;
 }
 h2{
     color: white;
-    font-size: 45px;
+    font-size: 30px;
+    font-family: 'UnifrakturMaguntia', cursive;
 }
