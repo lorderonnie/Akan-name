@@ -25,3 +25,23 @@ h2{
     font-size: 30px;
     font-family: 'UnifrakturMaguntia', cursive;
 }
+b{
+    color: white;
+    font-size: 25px;
+    font-family:'Rye', cursive;
+}
+.left{
+    color: white;
+    font-size: 30px;
+    font-family: 'UnifrakturMaguntia', cursive;
+}
+.right{
+    color: white;
+    font-size: 30px;
+    font-family: 'UnifrakturMaguntia', cursive;
+}
+.prompt{
+    font-size: 20px;
+    font-family: 'UnifrakturMaguntia', cursive;
+
+}
