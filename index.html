@@ -2,13 +2,33 @@
 <html>
     <head>
         <link href="css/styles.css" rel="stylesheet" type="text/css">
-        <script src="js/scripts.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Rye&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=UnifrakturMaguntia&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=New+Rocker&display=swap" rel="stylesheet">
         <title>AKAN-NAME</title>
     </head>
     <body>
         <center>
+            <b>
             <h1>THE AKAN NAME!!!</h1>
+            </b>
         </center>
+        <p>This is a web application designed to figure out your day of birth(in a week)and your Akan name.</p>
+        <p>Akan name is a Ghananian form of naming. In Ghana your name depends on the day of week you were born.</p>
+        <p>Here you will be able to figure out not only your specific day of birth but also your Ghananian Akan name.All you need to do is enter your date of birth and choose your gender. You will then be informed your Akan name!!!</p>
         
+        <center>
+            <h2>Gender....</h2>
+
+            <form>
+                <input name="gender" type="radio" value="male"> <span class="first"><b>Male</b></span><br>
+                <input name="gender" type="radio" value="female"> <span class="first"><b>Female</b></span><br><br>
+            <h2>Date of birth....</h2>
+                <input name="date" type="date" value="date"> <span class="first"><b>Date</b></span><br><br><br>
+                <button type="submit" onclick="finalForm()"><b>Answer</b></button>
+            </form> 
+             
+        </center>
+        <script src="js/scripts.js"></script>
     </body>
 </html>
