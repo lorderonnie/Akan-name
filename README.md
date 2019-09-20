@@ -19,16 +19,16 @@
 ## Known Bugs
   None so far.
 ## Technologies Used
-  HTML:
+  HTML:I used a html file to run down the codes required. I also added some font links to make it better.
 
-  CSS:
+  CSS:I made a custom stylesheet that has styled the eb application.I used a background image and new fonts.
 
-  JS:
+  JS:I used javascript to make the application work.
 
 
 ## BDD
-
-
+ I was able to apply all the required skills needed in the javascript.
+ The application rins down a smooth path of variables and a series of connections in the javascript console to be able to come up with the right answer.
 ## Support and contact details
   If you come across any problem with the web application contact me via my email:rontheking45@gmail.com
 ### License
