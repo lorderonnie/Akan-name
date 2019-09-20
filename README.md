@@ -22,5 +22,5 @@ Ronald Mwambia: A software programming student
 
 ### License
 MIT licence
-Copyright (c) {2019} **M**
+Copyright (c) {2019}   **Moringa school technical mentors and I myself for working on the project**
   
