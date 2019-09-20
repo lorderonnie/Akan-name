@@ -21,6 +21,6 @@ Ronald Mwambia: A software programming student
 ## Support and contact details
 
 ### License
-
-Copyright (c) {year} **{List of contributors or company name}**
+MIT licence
+Copyright (c) {2019} **M**
   
