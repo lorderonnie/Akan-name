@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
         <link href="css/styles.css" rel="stylesheet" type="text/css">
         <link href="https://fonts.googleapis.com/css?family=Rye&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=UnifrakturMaguntia&display=swap" rel="stylesheet">
@@ -20,20 +21,29 @@
         <center>
           <div class="card">
             <div class="card-body">
-                <form>
+                <form name="myStuff" onsubmit="event.preventDefault(); calculator()">
+                  <div class="right">  
                     <h2>Gender....</h2>
-                        <input name="gender" type="radio" value="male"> <span class="first"><b>Male</b></span><br>
-                        <input name="gender" type="radio" value="female"> <span class="first"><b>Female</b></span><br><br>
+                  </div> 
+                      <select name="gender" id="gender">
+                        <option name="male" value="male"><b>Male</b></option>
+                        <option name="female" value="female"><b>Female</b></option>
+                      </select>
+                  <div class="left">  
                     <h2>Date of birth....</h2>
-                        <input name="date" type="date" value="date"> <span class="first"><b>Date</b></span><br><br><br>
-                        <button type="submit" onclick="calculator()"><b>Response</b></button>
+                  </div>   
+                        <input name="date" type="date"> <span class="first"><b>Date</b></span><br><br><br>
+                        <input type="submit" value="Submit" href="#alert"></a></input><br>
+                        <p id="alert">AND YOUR ANSWER.....<br><span id="prompt"></span></p>
                 </form>
             </div><br>
             <div class="card-footer">
                 <p><b>Thank you for trying out the Akan-name...tell a friend!!!</b></p>`
             </div>  
           </div>      
-             
+         
+            
+   
         </center>
         <script src="js/scripts.js"></script>
     </body>
