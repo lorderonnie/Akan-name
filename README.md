@@ -10,11 +10,11 @@
    This application will offer you an additional information of the specific day of the week which your were born and give you your Akan name. 
    
 ## Setup/Installation Requirements
-* access a laptop, tablet or a phone that can access the internet.
-* have access to the nearest WI-FI source or use internet bundels.
-* go to your git hub account and git clone this link:
-* cd Akan-name 
-* activate via code . or atom . (use your prefered one.)
+* Access a laptop, tablet or a phone that can access the internet.
+* Have access to the nearest WI-FI source or use internet bundels.
+* Go to your git hub account and git clone this link:
+* Cd Akan-name 
+* Activate via code . or atom . (use your prefered one.)
 
 ## Known Bugs
   None so far.
