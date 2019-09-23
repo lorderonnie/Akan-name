@@ -5,7 +5,7 @@ var female =[
     "Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"
 ]
 
-function calculator(){
+function finalForm(){
     var name=""
     var gender=document.forms["myStuff"]["gender"].value;
     var date=document.forms["myStuff"]["date"].value;
